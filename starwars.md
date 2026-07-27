@@ -3,3 +3,6 @@
 - "I am your father"
 - "Do or do not. There is no try"
 - "I've got a bad feeling about this"
+- "I am the one who knocks"
+-"it is done"
+-"SRB separation confirmed. We have two twin solid rocket boosters comming in at 2 minutes 20 seconds"

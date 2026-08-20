@@ -13,3 +13,9 @@
 - The Raid
 - Maze Runner
 - Blade runner 2049
+- Kraven the hunder 
+- The Odessy
+- Spiderman
+- Layer Cake
+- John Wick
+
